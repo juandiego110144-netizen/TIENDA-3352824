@@ -1,0 +1,43 @@
+*{ 
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+body{
+    background-color: rgb(177, 172, 172);
+
+
+}
+#Container{
+    width: 80%;
+    margin: 0px auto;
+    box-shadow: 0px 0px 10px gray;
+    /*border: 1px solid red; */
+    background: white;
+
+
+
+}
+#Header{
+    height: 145px;
+    background: #f0f0f0;
+
+
+}
+
+#Logo{
+    padding: 20px;
+    margin-left: 20px;
+    float: left;
+}
+#Logo img{
+    float: left;
+    height: 200px;
+}
+#Logo a{
+    float: left;
+    font-size: 40px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
